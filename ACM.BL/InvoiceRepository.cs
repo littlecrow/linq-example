@@ -107,5 +107,66 @@ namespace ACM.BL
         {
             return invoiceList.Sum(inv => inv.NumberOfUnits);
         }
+
+        public dynamic GetInvoiceTotalByIsPaid(List<Invoice> invoiceList)
+        {
+            var query = invoiceList.GroupBy(inv => inv.IsPaid ?? false,
+                                            inv => inv.TotalAmount,
+                                            (groupKey, invTotal) => new
+                                            {
+                                                Key = groupKey,
+                                                InvoicedAmout = invTotal.Sum()
+                                            });
+            foreach(var item in query)
+            {
+                Console.WriteLine(item.Key + ": " + item.InvoicedAmout);
+            }
+
+            return query;
+        }
+        public dynamic GetInvoiceTotalByIsPaidAndMonth(List<Invoice> invoiceList)
+        {
+            var query = invoiceList.GroupBy(inv => new
+                                                {
+                                                    IsPaid = inv.IsPaid ?? false,
+                                                    InvoiceMonth = inv.InvoiceDate.ToString("MMMM")
+                                                },
+                                            inv => inv.TotalAmount,
+                                            (groupKey, invTotal) => new
+                                                {
+                                                    Key = groupKey,
+                                                    InvoicedAmout = invTotal.Sum()
+                                                });
+            foreach (var item in query)
+            {
+                Console.WriteLine(item.Key.IsPaid + "/"
+                                    + item.Key.InvoiceMonth + ": " + item.InvoicedAmout);
+            }
+
+            return query;
+        }
+
+        public dynamic GetInvoiceTotalByCustomerType(List<Customer> customerList, 
+                                                     List<CustomerType> customerTypeList)
+        {
+            var customerTypeQuery = customerList.Join(customerTypeList,
+                                                    c => c.CustomerTypeId,
+                                                    ct => ct.CustomerTypeId,
+                                                    (c, ct) => new
+                                                    {
+                                                        CustomerInstance = c,
+                                                        CustomerTypeName = ct.TypeName
+                                                    });
+
+            var query = customerTypeQuery.GroupBy(c => c.CustomerTypeName,
+                                            c => c.CustomerInstance.InvoiceList.Sum(inv => inv.TotalAmount),
+                                            (groupKey, invTotal) => new KeyValuePair<string, decimal>(groupKey, invTotal.Sum())
+                                            );
+            foreach(var item in query)
+            {
+                Console.WriteLine(item.Key + ": " + item.Value);
+            }
+            return query;
+        }
     }
 }
