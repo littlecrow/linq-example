@@ -6,3 +6,11 @@ C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.BL.Test\bin\Debug\ACM.B
 C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.BL.Test\obj\Debug\ACM.BL.Test.csprojResolveAssemblyReference.cache
 C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.BL.Test\obj\Debug\ACM.BL.Test.dll
 C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.BL.Test\obj\Debug\ACM.BL.Test.pdb
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL.Test\obj\Debug\ACM.BL.Test.csprojResolveAssemblyReference.cache
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL.Test\obj\Debug\ACM.BL.Test.dll
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL.Test\obj\Debug\ACM.BL.Test.pdb
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL.Test\bin\Debug\ACM.BL.Test.dll
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL.Test\bin\Debug\ACM.BL.Test.pdb
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL.Test\bin\Debug\ACM.BL.dll
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL.Test\bin\Debug\ACM.BL.pdb

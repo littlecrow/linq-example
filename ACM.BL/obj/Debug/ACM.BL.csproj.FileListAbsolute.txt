@@ -3,3 +3,8 @@ C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.BL\bin\Debug\ACM.BL.pdb
 C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
 C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.BL\obj\Debug\ACM.BL.dll
 C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.BL\obj\Debug\ACM.BL.pdb
