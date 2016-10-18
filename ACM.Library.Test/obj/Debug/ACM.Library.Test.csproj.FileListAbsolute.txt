@@ -1,0 +1,8 @@
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library.Test\bin\Debug\ACM.Library.Test.dll
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library.Test\bin\Debug\ACM.Library.Test.pdb
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library.Test\bin\Debug\ACM.Library.dll
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library.Test\bin\Debug\ACM.Library.pdb
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library.Test\obj\Debug\ACM.Library.Test.csprojResolveAssemblyReference.cache
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library.Test\obj\Debug\ACM.Library.Test.dll
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library.Test\obj\Debug\ACM.Library.Test.pdb

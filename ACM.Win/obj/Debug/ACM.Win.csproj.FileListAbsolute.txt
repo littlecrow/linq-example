@@ -1,0 +1,14 @@
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\bin\Debug\ACM.Win.exe.config
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\bin\Debug\ACM.Win.exe
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\bin\Debug\ACM.Win.pdb
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\bin\Debug\ACM.BL.dll
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\bin\Debug\ACM.BL.pdb
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\obj\Debug\ACM.Win.csprojResolveAssemblyReference.cache
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\obj\Debug\ACM.Win.CustomerWin.resources
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\obj\Debug\ACM.Win.Properties.Resources.resources
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\obj\Debug\ACM.Win.csproj.GenerateResource.Cache
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\obj\Debug\ACM.Win.exe
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Win\obj\Debug\ACM.Win.pdb
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.Win\bin\Debug\ACM.Win.exe.config
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.Win\obj\Debug\ACM.Win.exe
+C:\Users\littlecrow\Desktop\csharp course\linq-example\ACM.Win\obj\Debug\ACM.Win.pdb

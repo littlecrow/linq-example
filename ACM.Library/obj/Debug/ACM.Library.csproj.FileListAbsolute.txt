@@ -1,0 +1,5 @@
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library\bin\Debug\ACM.Library.dll
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library\bin\Debug\ACM.Library.pdb
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library\obj\Debug\ACM.Library.dll
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library\obj\Debug\ACM.Library.pdb
+C:\Users\littlecrow\Desktop\csharp course\ACMExample\ACM.Library\obj\Debug\ACM.Library.csprojResolveAssemblyReference.cache
